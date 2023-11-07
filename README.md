@@ -19,7 +19,7 @@
  - 3° Clique em OK.
 
 <h1> APk do projeto para download </h1>
-<h2> <a href="https://drive.google.com/file/d/1IjxsHV4h9A8qNn5DFTlAeLo01Sh24kZW/view?usp=drive_link"> Instalar aqui </h2>
+<h2> <a href="[https://drive.google.com/file/d/1IjxsHV4h9A8qNn5DFTlAeLo01Sh24kZW/view?usp=drive_link](https://drive.google.com/file/d/1NQJJBOtv9akYtcZyDT26Q0SAWbQqqNUe/view?usp=drive_link)"> Instalar aqui </h2>
 
 <h1> Pré requisito </h1>
 <h2> Android 8 ou superior </h2>
